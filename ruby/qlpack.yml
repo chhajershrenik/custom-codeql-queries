@@ -1,0 +1,3 @@
+name: github-queries-ruby
+version: 0.1.0
+libraryPathDependencies: codeql-ruby
